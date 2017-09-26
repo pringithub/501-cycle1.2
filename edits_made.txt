@@ -1,0 +1,36 @@
+
+Destructive Edits
+  - Fade in / Fade out
+	. all tracks
+  - Reverse
+	. 8_bell_ring
+  - Trim
+	. all tracks
+	. even trimmed from trims
+  - Pitch Tuning
+	. 2_3d_printer (made new track, pitched down; did again with up)
+
+
+Non-destructive Edits
+  - Fade in / Fade out
+	. most if not all tracks
+	. some with contour fades
+  - Trim
+	. most if not all tracks
+  - Flex Pitch
+	. 3_key_to_ignition
+	. oh_lordy_lord + edits
+  - Channel EQ
+	. 8_bell_ring (short ones)
+  - Non-destructive normalizing
+	. 2_3d_printer_startup
+  - Reverb
+	. On bells and cinnamon_crunch
+
+Automation
+  - Automated panning on 2_3d_printer_startp
+  - Automated volume control on 2_3d_printer_startp
+  - Automated EQ on 5_jogging_pant at end
+  - and much more ...
+
+
